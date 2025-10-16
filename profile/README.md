@@ -3,12 +3,12 @@
 
 # 👋 Oh, hello there...
 
-We’re **Oddbit**, a software development agency based in Bali — building digital products and long-term partnerships with clients across the world.  
+We’re **Oddbit**, a software development agency based in Bali, building digital products and long-term partnerships with clients across the world.  
 
 We’re a **tight, cross-functional unit** of engineers, designers, and problem solvers who care deeply about what we build and the people we build it with.  
-We don’t just write code — we solve problems, translate ideas into scalable systems, and help businesses grow through clarity and craftsmanship.
+We don’t just write code. We solve problems, translate ideas into scalable systems, and help businesses grow through clarity and craftsmanship.
 
-> “We create better solutions — together.”
+> “We create better solutions, together.”
 
 ---
 
@@ -20,7 +20,7 @@ We don’t just write code — we solve problems, translate ideas into scalable 
 - **UX / UI & Brand Strategy** – connect users with clear design and purpose  
 - **Workshops & Discovery** – align goals, define your MVP, and get started right  
 
-We’re technology-agnostic and fluent in AWS, Azure, JavaScript, TypeScript, Flutter, and more.  
+We are technology-agnostic and fluent in AWS, Azure, JavaScript, TypeScript, Flutter, and more.  
 But above all, we speak **clarity**, **ownership**, and **commitment**.
 
 ---
@@ -40,7 +40,8 @@ We believe trust is built through consistency, clear communication, and shared v
 ## 🌏 About Us
 
 Founded in 2017, Oddbit has grown into a trusted development partner for international clients.  
-Our position between Asia and the West lets us bridge time zones and cultures naturally — delivering high-quality work with calm, clarity, and care.
+Our position between Asia and the West helps us bridge time zones and cultures naturally.  
+We deliver high-quality work with calm, clarity, and care.
 
 ---
 
